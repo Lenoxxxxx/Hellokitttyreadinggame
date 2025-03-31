@@ -1,0 +1,25 @@
+body {
+  font-family: 'Comic Sans MS', cursive;
+  background: #ffe6f0;
+  text-align: center;
+  padding: 20px;
+}
+#game-container {
+  max-width: 600px;
+  margin: auto;
+}
+#avatar {
+  width: 150px;
+}
+button {
+  background-color: #ff99cc;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#story-text {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
